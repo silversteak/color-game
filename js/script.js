@@ -99,7 +99,7 @@ colorDisplay.textContent = pickedColor;
 			}
 			else{
 				this.style.backgroundColor = "#232323";
-				messageDisplay.textContent = "Try Again" ;
+				messageDisplay.textContent = "Try Again nd Again" ;
 			}
 
 
